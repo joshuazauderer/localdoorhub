@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Simplified house outline -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M48,20 L20,40 L20,76 L36,76 L36,56 L60,56 L60,76 L76,76 L76,40 Z"/>
+    <!-- Hub dot - circle drawn as path (center at 48,48, radius 8) -->
+    <path
+        android:fillColor="@color/electric_teal"
+        android:pathData="M 48,40 A 8,8 0 0,1 56,48 A 8,8 0 0,1 48,56 A 8,8 0 0,1 40,48 A 8,8 0 0,1 48,40 Z"/>
+</vector>
+

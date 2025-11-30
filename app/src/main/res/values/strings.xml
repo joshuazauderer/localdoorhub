@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalDoorHub</string>
+    <string name="tagline">Security That Stays Home.</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to LocalDoorHub</string>
+    <string name="welcome_description">We\'ll get your doorbell and tablet working together in a few quick steps.</string>
+    <string name="get_started">Get Started</string>
+    
+    <string name="wifi_title">Connect to LocalDoorHub Wi-Fi</string>
+    <string name="wifi_description">Make sure this tablet is connected to the LocalDoorHub Wi-Fi network. If not, open Wi-Fi settings and connect now.</string>
+    <string name="im_connected">I\'m Connected</string>
+    
+    <string name="detect_title">Detecting Doorbell</string>
+    <string name="detect_description">We\'re looking for your LocalDoorHub doorbell on the network.</string>
+    <string name="checking_doorbell">Checking for your doorbell…</string>
+    <string name="doorbell_found">We found your doorbell: %1$s</string>
+    <string name="doorbell_not_found">We couldn\'t find the doorbell. Make sure it\'s powered on and try again.</string>
+    
+    <string name="test_title">Test Chime &amp; Video</string>
+    <string name="test_description">We\'ll test your indoor chime and video connection.</string>
+    <string name="test_chime">Test Chime</string>
+    <string name="test_video">Test Video</string>
+    <string name="chime_test_sent">Chime test sent. Did you hear it?</string>
+    <string name="chime_test_failed">Chime test failed.</string>
+    <string name="video_test_succeeded">Video test succeeded.</string>
+    <string name="video_test_failed">Video test failed.</string>
+    
+    <string name="door_name_title">Name Your Door</string>
+    <string name="door_name_description">Give this door a name. This helps if you add more doors later.</string>
+    <string name="door_name_hint">Door name</string>
+    <string name="finish_setup">Finish Setup</string>
+    
+    <!-- Navigation -->
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    
+    <!-- Home Screen -->
+    <string name="live_view">Live View</string>
+    <string name="tap_to_open_live_video">Tap to open live video</string>
+    <string name="recent_events">Recent events</string>
+    <string name="doorbell_battery">Doorbell battery: %1$d%%</string>
+    <string name="wifi_status">Wi-Fi: %1$s</string>
+    <string name="wifi_good">Good</string>
+    <string name="wifi_poor">Poor</string>
+    
+    <!-- Events -->
+    <string name="events_title">Events</string>
+    <string name="doorbell_press">Doorbell Press</string>
+    <string name="motion">Motion</string>
+</resources>
+

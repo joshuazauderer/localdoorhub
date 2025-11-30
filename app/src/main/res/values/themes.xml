@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme - Material3 theming is handled by Compose -->
+    <style name="Theme.LocalDoorHub" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.LocalDoorHub.Splash" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/deep_blue</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
+
